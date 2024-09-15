@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Rafael Bazolli
 
-🖥 Atualmente estou estudando Análise de Dados e programação Python
+🖥 Atualmente estou estudando desenvolvimento Web com foco em backend.
 
 
 <div>
@@ -18,8 +18,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="65" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="65" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img align="center" alt="Rafa-React" height="30" width="65" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
 ##
